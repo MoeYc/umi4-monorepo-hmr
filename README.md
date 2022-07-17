@@ -20,7 +20,7 @@ export default {
     └── src
 ```
 
-`monorepoRedirect` can auto alias to `src/index` for typescript tanspiler and HMR.
+`monorepoRedirect` can auto alias to `src/index` for typescript transpiler and HMR.
 
 use `srcDir` change alias dest position:
 
